@@ -1,0 +1,4 @@
+module-info.class
+test\java\LoginTest.class
+main\java\base\BaseTest.class
+main\java\pages\LoginPage.class

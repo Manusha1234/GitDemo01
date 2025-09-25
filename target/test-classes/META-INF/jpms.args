@@ -1,0 +1,4 @@
+--patch-module
+Seleniumframework=_
+--add-reads
+Seleniumframework=ALL-UNNAMED
