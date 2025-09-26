@@ -21,6 +21,10 @@ public class LoginTest extends BaseTest{
 		loginPage.enterPassword(password);
 		loginPage.clickLogin();
 		
+		
+		
+		
+		//assertions
 	   Assert.assertEquals(driver.getTitle(), "OrangeHRM");
 	//   Assert.assertEquals(driver.getCurrentUrl(), "OrangeHRM");
 		
